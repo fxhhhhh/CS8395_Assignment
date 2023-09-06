@@ -1,0 +1,18 @@
+Maximum Depth of Binary Tree
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+def max_depth(root: TreeNode) -> int:
+    """
+    Given the root of a binary tree, return its maximum depth.
+
+    Parameters:
+    - root: TreeNode, the root of the tree.
+
+    Returns:
+    - An integer representing the maximum depth of the tree.
+    """
+    pass

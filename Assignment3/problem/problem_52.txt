@@ -1,0 +1,12 @@
+Reverse Vowels of a String
+def reverse_vowels(s: str) -> str:
+    """
+    Write a function that takes a string as input and reverse only the vowels of a string.
+
+    Parameters:
+    - s: A string.
+
+    Returns:
+    - A string with reversed vowels.
+    """
+    pass

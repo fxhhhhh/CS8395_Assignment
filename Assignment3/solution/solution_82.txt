@@ -1,0 +1,2 @@
+def find_difference(s: str, t: str) -> str:
+    return chr(sum(ord(char) for char in t) - sum(ord(char) for char in s))

@@ -1,0 +1,13 @@
+Contains Duplicate
+def contains_duplicate(nums: list[int]) -> bool:
+    """
+    Check if any value appears at least twice in the list.
+    Return true if any value appears at least twice in the list, and return false if every element is distinct.
+
+    Parameters:
+    - nums: List of integers
+
+    Returns:
+    - True if there's any duplicate, otherwise False.
+    """
+    pass

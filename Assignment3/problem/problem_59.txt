@@ -1,0 +1,13 @@
+Find the Duplicate Number
+def find_duplicate(nums: list[int]) -> int:
+    """
+    Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
+    There is only one repeated number in nums, return this repeated number.
+
+    Parameters:
+    - nums: List of integers.
+
+    Returns:
+    - An integer representing the duplicate number.
+    """
+    pass

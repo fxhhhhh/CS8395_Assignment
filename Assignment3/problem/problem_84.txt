@@ -1,0 +1,12 @@
+Missing Number
+def missing_number(nums: list[int]) -> int:
+    """
+    Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
+
+    Parameters:
+    - nums: List of integers.
+
+    Returns:
+    - An integer representing the missing number.
+    """
+    pass

@@ -1,0 +1,13 @@
+Top K Frequent Elements
+def top_k_frequent(nums: list[int], k: int) -> list[int]:
+    """
+    Given a non-empty array of integers, return the k most frequent elements.
+
+    Parameters:
+    - nums: List of integers
+    - k: An integer
+
+    Returns:
+    - A list containing the k most frequent elements.
+    """
+    pass

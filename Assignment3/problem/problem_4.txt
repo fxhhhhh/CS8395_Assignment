@@ -1,0 +1,12 @@
+Find the First Non-Repeated Character
+def first_non_repeated(s: str) -> str:
+    """
+    Find the first non-repeated character in a string.
+
+    Parameters:
+    - s: input string
+
+    Returns:
+    - The first non-repeated character or None if all characters are repeated.
+    """
+    pass

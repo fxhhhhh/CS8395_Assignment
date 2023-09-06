@@ -1,0 +1,13 @@
+Merge Two Sorted Lists
+def merge_sorted_lists(l1: list, l2: list) -> list:
+    """
+    Merge two sorted lists.
+
+    Parameters:
+    - l1: first sorted list
+    - l2: second sorted list
+
+    Returns:
+    - A new sorted list containing all elements from l1 and l2
+    """
+    pass

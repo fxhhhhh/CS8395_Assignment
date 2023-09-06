@@ -1,0 +1,14 @@
+Backspace String Compare
+def backspace_compare(S: str, T: str) -> bool:
+    """
+    Given two strings S and T, return if they are equal when both are typed into empty text editors.
+    '#' means a backspace character.
+
+    Parameters:
+    - S: A string.
+    - T: A string.
+
+    Returns:
+    - Boolean indicating whether the two strings are equal after processing the backspaces.
+    """
+    pass

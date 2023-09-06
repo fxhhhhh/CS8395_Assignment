@@ -1,0 +1,13 @@
+Reverse Words in a String
+def reverse_words(s: str) -> str:
+    """
+    Reverse the words in a given string. Each word is composed of letters only.
+    If there are multiple spaces between words, reduce them to a single space.
+
+    Parameters:
+    - s: Input string
+
+    Returns:
+    - String with words reversed.
+    """
+    pass

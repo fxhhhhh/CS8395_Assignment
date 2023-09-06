@@ -1,0 +1,14 @@
+Find All Duplicates in an Array
+def find_duplicates(nums: list[int]) -> list[int]:
+    """
+    Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array),
+    some elements appear twice and others appear once.
+    Find all the elements that appear twice in this array.
+
+    Parameters:
+    - nums: List of integers
+
+    Returns:
+    - A list containing all elements that appear twice.
+    """
+    pass

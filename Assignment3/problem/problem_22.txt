@@ -1,0 +1,13 @@
+Maximum Subarray
+def max_subarray(nums: list[int]) -> int:
+    """
+    Find the contiguous subarray (containing at least one number) which has the largest sum
+    and return its sum.
+
+    Parameters:
+    - nums: List of integers
+
+    Returns:
+    - Maximum subarray sum.
+    """
+    pass

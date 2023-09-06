@@ -1,0 +1,14 @@
+Isomorphic Strings
+def is_isomorphic(s: str, t: str) -> bool:
+    """
+    Given two strings s and t, determine if they are isomorphic.
+    Two strings are isomorphic if the characters in s can be replaced to get t.
+
+    Parameters:
+    - s: A string.
+    - t: A string.
+
+    Returns:
+    - Boolean value indicating whether the two strings are isomorphic.
+    """
+    pass

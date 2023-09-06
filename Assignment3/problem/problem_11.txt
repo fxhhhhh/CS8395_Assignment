@@ -1,0 +1,14 @@
+Sum of Two
+def sum_of_two(nums: list[int], target: int) -> tuple[int, int]:
+    """
+    Given a list of numbers and a target, find two distinct numbers that sum up to the target.
+
+    Parameters:
+    - nums: List of integers
+    - target: Target sum
+
+    Returns:
+    - A tuple (a, b) such that a + b = target. If no such numbers exist, return None.
+    """
+    pass
+

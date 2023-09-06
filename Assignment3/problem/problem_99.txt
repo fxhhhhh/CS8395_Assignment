@@ -1,0 +1,12 @@
+Longest Substring Without Repeating Characters
+def length_of_longest_substring(s: str) -> int:
+    """
+    Given a string, find the length of the longest substring without repeating characters.
+
+    Parameters:
+    - s: A string.
+
+    Returns:
+    - An integer representing the length of the longest substring without repeating characters.
+    """
+    pass

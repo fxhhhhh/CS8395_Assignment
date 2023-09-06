@@ -1,0 +1,12 @@
+Contains Duplicate
+def contains_duplicate(nums: list[int]) -> bool:
+    """
+    Given an array of integers, find if the array contains any duplicates.
+
+    Parameters:
+    - nums: List of integers.
+
+    Returns:
+    - Boolean indicating whether the list contains duplicates.
+    """
+    pass

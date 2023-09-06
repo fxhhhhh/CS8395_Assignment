@@ -1,0 +1,13 @@
+Longest Common Prefix
+def longest_common_prefix(strs: list[str]) -> str:
+    """
+    Write a function to find the longest common prefix string amongst an array of strings.
+    If there is no common prefix, return an empty string "".
+
+    Parameters:
+    - strs: List of strings.
+
+    Returns:
+    - A string representing the longest common prefix.
+    """
+    pass

@@ -1,0 +1,13 @@
+Majority Element
+def majority_element(nums: list[int]) -> int:
+    """
+    Given an array of integers, find the majority element.
+    The majority element is the element that appears more than ⌊n/2⌋ times.
+
+    Parameters:
+    - nums: List of integers
+
+    Returns:
+    - The majority element.
+    """
+    pass

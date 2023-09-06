@@ -1,0 +1,13 @@
+Check if Two Strings are Anagrams
+def are_anagrams(s1: str, s2: str) -> bool:
+    """
+    Check if two strings are anagrams.
+
+    Parameters:
+    - s1: first string
+    - s2: second string
+
+    Returns:
+    - True if the strings are anagrams, False otherwise
+    """
+    pass

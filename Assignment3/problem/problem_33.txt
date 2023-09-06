@@ -1,0 +1,13 @@
+Remove Duplicates from Sorted Array
+def remove_duplicates(nums: list[int]) -> int:
+    """
+    Given a sorted array nums, remove the duplicates in-place such that each element appears only once
+    and returns the new length.
+
+    Parameters:
+    - nums: List of integers
+
+    Returns:
+    - An integer representing the length of the array after duplicates have been removed.
+    """
+    pass

@@ -1,0 +1,4 @@
+def intersect(nums1: list[int], nums2: list[int]) -> list[int]:
+    from collections import Counter
+    c1, c2 = Counter(nums1), Counter(nums2)
+    return list((c1 & c2).elements())

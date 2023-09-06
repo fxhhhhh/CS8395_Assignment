@@ -1,0 +1,12 @@
+Palindrome
+def is_palindrome(s: str) -> bool:
+    """
+    Check if a string is a palindrome.
+
+    Parameters:
+    - s: A string.
+
+    Returns:
+    - Boolean indicating if the string is a palindrome.
+    """
+    pass

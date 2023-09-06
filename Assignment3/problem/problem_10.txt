@@ -1,0 +1,18 @@
+Find the Intersection Point of Two Linked Lists
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+def get_intersection_node(headA: ListNode, headB: ListNode) -> ListNode:
+    """
+    Find the node at which the intersection of two singly linked lists begins.
+
+    Parameters:
+    - headA: head of the first linked list
+    - headB: head of the second linked list
+
+    Returns:
+    - The intersection node or None if there's no intersection.
+    """
+    pass

@@ -1,0 +1,13 @@
+Maximum Product Subarray
+def max_product(nums: list[int]) -> int:
+    """
+    Find the contiguous subarray within an array (containing at least one number)
+    which has the largest product.
+
+    Parameters:
+    - nums: List of integers.
+
+    Returns:
+    - An integer representing the maximum product possible from subarrays.
+    """
+    pass

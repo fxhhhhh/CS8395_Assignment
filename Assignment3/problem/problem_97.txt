@@ -1,0 +1,13 @@
+Find First Unique Character in a String
+def first_unique_char(s: str) -> int:
+    """
+    Given a string, find the first non-repeating character in it and return its index.
+    If it doesn't exist, return -1.
+
+    Parameters:
+    - s: A string.
+
+    Returns:
+    - An integer representing the index of the first unique character.
+    """
+    pass

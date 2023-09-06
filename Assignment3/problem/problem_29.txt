@@ -1,0 +1,12 @@
+Rotate Image
+def rotate(matrix: list[list[int]]) -> None:
+    """
+    Given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
+
+    Parameters:
+    - matrix: 2D list of integers
+
+    Returns:
+    - None. Modify the matrix in-place.
+    """
+    pass

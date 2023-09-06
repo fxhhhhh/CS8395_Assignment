@@ -1,0 +1,12 @@
+Power of Three
+def is_power_of_three(n: int) -> bool:
+    """
+    Given an integer, write a function to determine if it is a power of three.
+
+    Parameters:
+    - n: An integer.
+
+    Returns:
+    - Boolean indicating if the number is a power of three.
+    """
+    pass

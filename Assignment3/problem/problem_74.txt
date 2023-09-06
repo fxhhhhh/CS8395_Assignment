@@ -1,0 +1,12 @@
+ Fibonacci Sequence
+def fibonacci(n: int) -> int:
+    """
+    Given n, return the nth number in the Fibonacci sequence.
+
+    Parameters:
+    - n: An integer.
+
+    Returns:
+    - An integer representing the nth Fibonacci number.
+    """
+    pass

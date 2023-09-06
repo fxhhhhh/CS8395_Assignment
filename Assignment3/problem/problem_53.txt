@@ -1,0 +1,14 @@
+Add Strings
+def add_strings(num1: str, num2: str) -> str:
+    """
+    Given two non-negative integers, num1 and num2 represented as string,
+    return the sum of num1 and num2 as a string.
+
+    Parameters:
+    - num1: A string.
+    - num2: A string.
+
+    Returns:
+    - A string representing the sum of num1 and num2.
+    """
+    pass

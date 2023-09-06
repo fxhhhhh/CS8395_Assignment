@@ -1,0 +1,15 @@
+Count and Say
+def count_and_say(n: int) -> str:
+    """
+    The count-and-say sequence is a sequence of digit strings defined by the recursive formula:
+    countAndSay(1) = "1"
+    countAndSay(n) is the way you would "say" the digit string from countAndSay(n-1).
+
+    Parameters:
+    - n: An integer.
+
+    Returns:
+    - A string representing the n-th term of the count-and-say sequence.
+    """
+    pass
+

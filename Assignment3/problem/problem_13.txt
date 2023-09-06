@@ -1,0 +1,13 @@
+ Count Occurrences in a Sorted List
+ def count_occurrences(nums: list[int], target: int) -> int:
+    """
+    Count the occurrences of a target in a sorted list.
+
+    Parameters:
+    - nums: Sorted list of integers
+    - target: Target integer
+
+    Returns:
+    - Number of occurrences of target in nums.
+    """
+    pass

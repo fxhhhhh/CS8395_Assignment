@@ -1,0 +1,12 @@
+Reverse a String
+def reverse_string(s: str) -> str:
+    """
+    Reverse the provided string.
+
+    Parameters:
+    - s: string to reverse
+
+    Returns:
+    - Reversed string
+    """
+    pass

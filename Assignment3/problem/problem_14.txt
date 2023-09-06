@@ -1,0 +1,12 @@
+Rotate Matrix
+def rotate_matrix(matrix: list[list[int]]) -> list[list[int]]:
+    """
+    Rotate the matrix 90 degrees clockwise.
+
+    Parameters:
+    - matrix: 2D list of integers
+
+    Returns:
+    - Rotated matrix
+    """
+    pass

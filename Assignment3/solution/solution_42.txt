@@ -1,0 +1,8 @@
+def first_uniq_char(s: str) -> int:
+    frequency = {}
+    for i in s:
+        frequency[i] = frequency.get(i, 0) + 1
+    for index, char in enumerate(s):
+        if frequency[char] == 1:
+            return index
+    return -1

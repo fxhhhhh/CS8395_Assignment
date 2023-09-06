@@ -1,0 +1,13 @@
+Happy Number
+def is_happy(n: int) -> bool:
+    """
+    A happy number is a number which eventually reaches 1 when replaced
+    by the sum of the square of each digit.
+
+    Parameters:
+    - n: An integer.
+
+    Returns:
+    - Boolean value indicating whether the number is happy or not.
+    """
+    pass

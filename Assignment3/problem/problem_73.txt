@@ -1,0 +1,12 @@
+Factorial
+def factorial(n: int) -> int:
+    """
+    Given a positive integer n, return its factorial.
+
+    Parameters:
+    - n: An integer.
+
+    Returns:
+    - An integer representing the factorial of n.
+    """
+    pass

@@ -1,0 +1,12 @@
+Count Primes
+def count_primes(n: int) -> int:
+    """
+    Count the number of prime numbers less than a non-negative number n.
+
+    Parameters:
+    - n: An integer.
+
+    Returns:
+    - An integer representing the number of primes less than n.
+    """
+    pass

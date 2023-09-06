@@ -1,0 +1,12 @@
+Valid Sudoku
+def is_valid_sudoku(board: list[list[str]]) -> bool:
+    """
+    Determine if a 9 x 9 Sudoku board is valid.
+
+    Parameters:
+    - board: 2D List of strings
+
+    Returns:
+    - Boolean value indicating whether the given board is a valid Sudoku.
+    """
+    pass

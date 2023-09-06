@@ -1,0 +1,13 @@
+Group Anagrams
+def group_anagrams(strs: list[str]) -> list[list[str]]:
+    """
+    Given an array of strings, group the anagrams together.
+
+    Parameters:
+    - strs: A list of strings.
+
+    Returns:
+    - A list of lists where each list consists of anagram groups.
+    """
+    pass
+

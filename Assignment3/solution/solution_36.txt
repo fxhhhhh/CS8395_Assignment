@@ -1,0 +1,14 @@
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+def sum_of_left_leaves(root: TreeNode) -> int:
+    if not root:
+        return 0
+    sum = 0
+    if root.left and not root.left.left and not root.left.right:
+        sum += root.left.val
+    sum += sum_of_left_leaves(root.left) + sum_of_left_leaves(root.right)
+    return sum

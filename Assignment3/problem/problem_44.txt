@@ -1,0 +1,13 @@
+Valid Anagram
+def is_anagram(s: str, t: str) -> bool:
+    """
+    Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+    Parameters:
+    - s: A string
+    - t: A string
+
+    Returns:
+    - Boolean value indicating whether t is an anagram of s.
+    """
+    pass

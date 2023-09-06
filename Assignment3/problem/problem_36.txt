@@ -1,0 +1,18 @@
+Sum of Left Leaves
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+def sum_of_left_leaves(root: TreeNode) -> int:
+    """
+    Find the sum of all left leaves in a given binary tree.
+
+    Parameters:
+    - root: A TreeNode object
+
+    Returns:
+    - An integer representing the sum of all left leaves.
+    """
+    pass

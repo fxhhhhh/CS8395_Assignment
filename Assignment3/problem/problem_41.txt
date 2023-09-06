@@ -1,0 +1,13 @@
+Intersection of Two Arrays
+def intersection(nums1: list[int], nums2: list[int]) -> list[int]:
+    """
+    Given two arrays, write a function to compute their intersection.
+
+    Parameters:
+    - nums1: List of integers
+    - nums2: List of integers
+
+    Returns:
+    - List of integers that are the intersection of nums1 and nums2.
+    """
+    pass

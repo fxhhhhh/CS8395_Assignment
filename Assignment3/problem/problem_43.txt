@@ -1,0 +1,13 @@
+Find All Anagrams in a String
+def find_anagrams(s: str, p: str) -> list[int]:
+    """
+    Given two strings s and p, return an array of all the start indices of p's anagrams in s.
+
+    Parameters:
+    - s: A string
+    - p: A string
+
+    Returns:
+    - List of integers representing the start indices of anagrams of p in s.
+    """
+    pass

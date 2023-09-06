@@ -1,0 +1,13 @@
+Palindromic Substrings
+def count_palindromic_substrings(s: str) -> int:
+    """
+    Given a string, return the count of palindromic substrings in it.
+    A palindromic substring is a substring that reads the same backward as forward.
+
+    Parameters:
+    - s: A string.
+
+    Returns:
+    - An integer representing the count of palindromic substrings.
+    """
+    pass

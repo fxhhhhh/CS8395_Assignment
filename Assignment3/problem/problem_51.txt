@@ -1,0 +1,15 @@
+Two Sum II
+def two_sum(numbers: list[int], target: int) -> list[int]:
+    """
+    Given an array of integers that is already sorted in ascending order,
+    find two numbers such that they add up to a specific target number.
+    Return the indices of the two numbers (1-indexed) as a list.
+
+    Parameters:
+    - numbers: List of integers (sorted in ascending order).
+    - target: An integer.
+
+    Returns:
+    - List of two integers representing the indices.
+    """
+    pass

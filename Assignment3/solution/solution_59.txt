@@ -1,0 +1,9 @@
+def find_duplicate(nums: list[int]) -> int:
+    slow, fast = nums[0], nums[nums[0]]
+    while slow != fast:
+        slow, fast = nums[slow], nums[nums[fast]]
+
+    fast = 0
+    while slow != fast:
+        slow, fast = nums[slow], nums[fast]
+    return slow

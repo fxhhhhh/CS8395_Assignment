@@ -1,0 +1,12 @@
+Palindrome Number
+def is_palindrome(x: int) -> bool:
+    """
+    Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+    Parameters:
+    - x: An integer.
+
+    Returns:
+    - Boolean indicating whether the integer is a palindrome or not.
+    """
+    pass

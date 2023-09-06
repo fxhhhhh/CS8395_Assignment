@@ -1,0 +1,12 @@
+ Convert Sentence to CamelCase
+ def sentence_to_camel(s: str) -> str:
+    """
+    Convert a sentence into CamelCase.
+
+    Parameters:
+    - s: A string representing the sentence.
+
+    Returns:
+    - A string representing the sentence in CamelCase.
+    """
+    pass

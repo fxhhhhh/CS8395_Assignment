@@ -1,0 +1,11 @@
+def reverse_words(s: str) -> str:
+    """
+    Given an input string, reverse the string word by word.
+
+    Parameters:
+    - s: A string
+
+    Returns:
+    - A string with words reversed.
+    """
+    pass

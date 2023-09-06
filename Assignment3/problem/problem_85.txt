@@ -1,0 +1,13 @@
+Move Zeroes
+def move_zeroes(nums: list[int]) -> None:
+    """
+    Given an array nums, write a function to move all 0's to the end of it while maintaining
+    the relative order of the non-zero elements.
+
+    Parameters:
+    - nums: List of integers.
+
+    Returns:
+    - None. The modification should be done in-place.
+    """
+    pass

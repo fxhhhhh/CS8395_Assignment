@@ -1,0 +1,13 @@
+Rotate Array
+def rotate(nums: list[int], k: int) -> None:
+    """
+    Given an array, rotate the array to the right by k steps, where k is non-negative.
+
+    Parameters:
+    - nums: List of integers.
+    - k: An integer.
+
+    Returns:
+    - None. The modification should be done in-place.
+    """
+    pass

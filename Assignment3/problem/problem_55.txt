@@ -1,0 +1,14 @@
+ Fizz Buzz
+ def fizz_buzz(n: int) -> list[str]:
+    """
+    Write a program that outputs the string representation of numbers from 1 to n.
+    For multiples of three, it should output “Fizz” instead of the number.
+    For the multiples of five, output “Buzz”. For numbers which are multiples of both three and five, output “FizzBuzz”.
+
+    Parameters:
+    - n: An integer.
+
+    Returns:
+    - List of strings representing the Fizz Buzz sequence.
+    """
+    pass

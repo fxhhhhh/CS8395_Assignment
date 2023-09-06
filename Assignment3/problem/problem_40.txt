@@ -1,0 +1,15 @@
+Minimum Window Substring
+def min_window(s: str, t: str) -> str:
+    """
+    Given two strings s and t, return the minimum window in s which will contain
+    all the characters in t. If there is no such window in s that covers all
+    characters in t, return an empty string "".
+
+    Parameters:
+    - s: A string
+    - t: A string
+
+    Returns:
+    - A string representing the minimum window that contains all characters of t.
+    """
+    pass

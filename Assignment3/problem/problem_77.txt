@@ -1,0 +1,12 @@
+Merge Intervals
+def merge(intervals: list[list[int]]) -> list[list[int]]:
+    """
+    Given a collection of intervals, merge any overlapping intervals.
+
+    Parameters:
+    - intervals: List of lists where each list contains two integers.
+
+    Returns:
+    - List of merged intervals.
+    """
+    pass

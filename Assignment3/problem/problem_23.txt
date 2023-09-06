@@ -1,0 +1,13 @@
+Single Number
+def single_number(nums: list[int]) -> int:
+    """
+    Given a non-empty array of integers, every element appears twice except for one.
+    Find that single one. Try to implement it with linear runtime complexity without using extra memory.
+
+    Parameters:
+    - nums: List of integers
+
+    Returns:
+    - The integer that appears only once.
+    """
+    pass

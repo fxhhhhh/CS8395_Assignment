@@ -1,0 +1,12 @@
+def valid_square(p1: list[int], p2: list[int], p3: list[int], p4: list[int]) -> bool:
+    def dist(pt1, pt2):
+        return (pt1[0] - pt2[0])**2 + (pt1[1] - pt2[1])**2
+
+    points = [p1, p2, p3, p4]
+    dists = []
+    for i in range(len(points)):
+        for j in range(i+1, len(points)):
+            dists.append(dist(points[i], points[j]))
+
+    dists.sort()
+    return dists[0] > 0 and dists[0] == dists[1] == dists[2] == dists[3] and dists[4] == dists[5]

@@ -1,0 +1,15 @@
+ Best Time to Buy and Sell Stock
+ def max_profit(prices: list[int]) -> int:
+    """
+    Given a list of prices where prices[i] is the price of a given stock on the ith day,
+    find the maximum profit you can achieve. You may complete as many transactions as you like
+    (buy one and sell one share of the stock multiple times).
+
+    Parameters:
+    - prices: List of integers.
+
+    Returns:
+    - An integer representing the maximum profit.
+    """
+    pass
+
